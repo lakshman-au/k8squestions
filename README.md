@@ -1,2 +1,2 @@
 # k8squestions
-k83 inteview Questions
+k8s  inteview Questions
